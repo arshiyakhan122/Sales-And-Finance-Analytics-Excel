@@ -5,4 +5,4 @@
  - These intermediaries play a crucial role as they serve as a bridge connecting Atliq's products with the end consumers, effectively making these products accessible to the general public.
 Atliq Bussiness models
    
-![Atliq Bussiness Model Image](Atliq Bussiness Model.png)
+![Alt Text](Atliq Bussiness Model.png)
