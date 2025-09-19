@@ -8,14 +8,14 @@
 # Problem Statement
 # Sales Analysis
 The primary purpose of the Sales Analytics report is to give us a detailed understanding of important factors that help us make smarter business decisions. This report provides valuable information to guide our business choices effectively. Here's a summary of the Sales Analytics Report designed specifically for Atliq Hardware.
-- 1.Top 10 Products with Sales Increase: We want to find which products had the biggest increase in sales from 2020 to 2021.
-- 
-- 2.Division Sales Report: Create a report that shows how much money we made in 2020 and 2021 and how much our sales grew.
+  1.Top 10 Products with Sales Increase: We want to find which products had the biggest increase in sales from 2020 to 2021.
+  
+  2.Division Sales Report: Create a report that shows how much money we made in 2020 and 2021 and how much our sales grew.
 
-- 3.Top and Bottom 5 Sold Products: Identify the products that sold the top 5 and the least bottom 5 in terms of quantity.
+  3.Top and Bottom 5 Sold Products: Identify the products that sold the top 5 and the least bottom 5 in terms of quantity.
 
-- 4.New Products in 2021: Figure out what new products Atliq started selling in 2021.
+ 4.New Products in 2021: Figure out what new products Atliq started selling in 2021.
 
-- 5.Top 5 Sales Countries in 2021: List the five countries where we made the most money in 2021.
+ 5.Top 5 Sales Countries in 2021: List the five countries where we made the most money in 2021.
  # Sales Analysis Reports
-- 1:Top 10 Products with Sales Increase: We want to find which products had the biggest increase in sales from 2020 to 2021.
+ 1:Top 10 Products with Sales Increase: We want to find which products had the biggest increase in sales from 2020 to 2021.
