@@ -4,7 +4,7 @@
  - Atliq not only sells these hardware goods but also manufactures them. To make these products available to customers, they use intermediaries. These intermediaries can be physical retail giants like Croma and Best Buy and popular online marketplaces such as Flipkart and Amazon.
  - These intermediaries play a crucial role as they serve as a bridge connecting Atliq's products with the end consumers, effectively making these products accessible to the general public.
 # Atliq Bussiness models
-   ![Alt Text](Atliq Bussiness Model.png)
+![Alt Text](Atliq Bussiness Model.png)
 # Problem Statement
 # Sales Analysis
 The primary purpose of the Sales Analytics report is to give us a detailed understanding of important factors that help us make smarter business decisions. This report provides valuable information to guide our business choices effectively. Here's a summary of the Sales Analytics Report designed specifically for Atliq Hardware.
