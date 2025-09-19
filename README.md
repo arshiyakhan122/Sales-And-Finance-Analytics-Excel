@@ -97,18 +97,22 @@ The primary purpose of the Sales Analytics report is to give us a detailed under
    - However, other markets, like Austria, Poland, and South Korea, fell short of their targets. This comprehensive assessment provides a clear picture of how each market performed in         relation to their goals, helping us identify areas for improvement and refine our strategies in the future.
 
  ## 3.Yearly Profit and Loss (P&L) Report: This report breaks down our financial performance for each fiscal year, showing where we made and lost.
+
+ 
      [ALt Text](https://github.com/arshiyakhan122/Sales-And-Finance-Analytics-Excel/blob/main/P%26L%20By%20Fiscal%20Year(1).png)
 
    ## Insights: 
+   
      - Our three-year Profit and Loss report showcases impressive growth in Net Sales, surging by 204.5% from 87.5 million to 598.9 million.
      - Despite a significant increase in Cost of Goods Sold (COGS), efficient cost management allowed us to maintain a strong Gross Margin of 218.2 million.
      - The slight dip in Gross Margin Percentage (GM%) suggests an opportunity for further optimization. -These insights are ability to attract more customers, generate higher revenue,         and maintain effective cost control, while also highlighting areas for enhancing profitability through refined cost management strategies.
      
  ## 4.Quarterly Profit and Loss (P&L) Comparison:** We analyze and compare the financial performance for each quarter, revealing trends in how we're doing throughout the year.
 
-     [ALt Text](https://github.com/arshiyakhan122/Sales-And-Finance-Analytics-Excel/blob/main/New%20Products%202021.png)
+       [Alt Text](https://github.com/arshiyakhan122/Sales-And-Finance-Analytics-Excel/blob/main/P%26L%20by%20Months.pdf)
  
     ## Insights: 
+    
     Our sales went up a over the years, especially in 2021, where they more than doubled compared to 2020. Despite increased costs, we managed to keep a good profit margin. This means       we're making more revenue while being efficient with our expenses, which is great for the business.
     
 ## 5.Market-Specific Profit and Loss (P&L) Report:** This report breaks down the financial performance for each market we operate in.
