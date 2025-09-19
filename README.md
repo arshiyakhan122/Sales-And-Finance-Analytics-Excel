@@ -77,7 +77,7 @@ The primary purpose of the Sales Analytics report is to give us a detailed under
 
   [Alt Text](https://github.com/arshiyakhan122/Sales-And-Finance-Analytics-Excel/blob/main/Customer%20Performance%20Report-1.png)
 
-  [Alt Text[](](https://github.com/arshiyakhan122/Sales-And-Finance-Analytics-Excel/blob/main/Customer%20Performance%20Report-2.png)
+  [Alt Text](https://github.com/arshiyakhan122/Sales-And-Finance-Analytics-Excel/blob/main/Customer%20Performance%20Report-2.png)
  
    ## Insights:
 
