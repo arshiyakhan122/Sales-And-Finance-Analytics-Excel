@@ -10,6 +10,8 @@
 The primary purpose of the Sales Analytics report is to give us a detailed understanding of important factors that help us make smarter business decisions. This report provides valuable information to guide our business choices effectively. Here's a summary of the Sales Analytics Report designed specifically for Atliq Hardware.
 
   1.Top 10 Products with Sales Increase: We want to find which products had the biggest increase in sales from 2020 to 2021.
+  ## Insights:
+  Listed of the top ten products that have been doing really well from 2020 to 2021. One product, "AQ Electron 4 3600 Desktop processor," "AQ Pen Drive DRC" has been the best-seller for both years.
   
   2.Division Sales Report: Create a report that shows how much money we made in 2020 and 2021 and how much our sales grew.
 
