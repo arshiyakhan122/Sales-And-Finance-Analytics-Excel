@@ -35,7 +35,7 @@ The primary purpose of the Sales Analytics report is to give us a detailed under
   - 
  ## 3: Top and Bottom 5 Sold Products: Identify the products that sold the top 5 and the least bottom 5 in terms of quantity.
 
-       [Alt Text]
+       [Alt Text](https://github.com/arshiyakhan122/Sales-And-Finance-Analytics-Excel/blob/main/Top%205%20Products-%20QTY.png)
 
  ## Insights:
  These insights highlight our best-performing products, with "AQ Master wired x1 Ms" leading Product. It's crucial to continue monitoring and promoting these popular items to maintain    and optimizing our inventory and sales strategies.
