@@ -87,7 +87,8 @@ The primary purpose of the Sales Analytics report is to give us a detailed under
   - These insights illustrate our consistent expansion in reaching and serving a larger customer base, underlining the strong demand for our products and services. It reflects our  dedication to meeting the evolving needs of a rapidly growing customer audience.
   - 
  ## 2.Market Performance vs. Sales Targets Comparison: It offers a thorough analysis of how our sales efforts align with our goals and market conditions.
-    [Alt Text](https://github.com/arshiyakhan122/Sales-And-Finance-Analytics-Excel/blob/main/Market%20Performance%20vs%20Target%20Report-1.png)
+
+   [Alt Text](https://github.com/arshiyakhan122/Sales-And-Finance-Analytics-Excel/blob/main/Market%20Performance%20vs%20Target%20Report-1.png)
  
    ## Insights:
 
