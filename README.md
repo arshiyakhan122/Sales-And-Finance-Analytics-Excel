@@ -56,7 +56,8 @@ The primary purpose of the Sales Analytics report is to give us a detailed under
    ## Insights: 
    India led the way with the most sales at $161.3 million. The USA, South Korea, the United Kingdom, and Canada also had strong sales.
    
-   #Finacal Analysis
+  # Finacal Analysis
+   
    Financial reports are critical tools for thoroughly assessing economic trends, developing effective financial strategies, and establishing strong long-term business plans. They also      serve as a reliable basis for budgeting and enable meaningful performance comparisons with other companies in the industry. Furthermore, these reports aid in making the business more     adaptable to the constantly changing global demands. Here's a financial report specifically tailored for Atliq Hardware.
 
    - 1.Customer Net Sales Performance Report:
@@ -71,5 +72,80 @@ The primary purpose of the Sales Analytics report is to give us a detailed under
       This report breaks down the financial performance for each market we operate in.
     - 6.Quarterly Gross Margin Percentage (GM%) by Location:
       It provides a detailed view of profitability in different geographic areas.
+# Finacal Analysis reports
+ ## 1.Customer Net Sales Performance Report: This report provides a detailed overview of how much revenue we've earned from our customers.
+
+  [Alt Text](https://github.com/arshiyakhan122/Sales-And-Finance-Analytics-Excel/blob/main/Customer%20Performance%20Report-1.png)
+
+  [Alt Text[](](https://github.com/arshiyakhan122/Sales-And-Finance-Analytics-Excel/blob/main/Customer%20Performance%20Report-2.png)
+ 
+   ## Insights:
+
+  - In 2019, we generated revenue from 87.5 million.
+  - By 2020, our revenue significantly increased with 196.7 million.
+  - In 2021, our revenue saw an astounding surge, serving 598.9 million, marking a substantial 304.5% growth compared to the previous year.
+  - These insights illustrate our consistent expansion in reaching and serving a larger customer base, underlining the strong demand for our products and services. It reflects our  dedication to meeting the evolving needs of a rapidly growing customer audience.
+  - 
+ ## 2.Market Performance vs. Sales Targets Comparison: It offers a thorough analysis of how our sales efforts align with our goals and market conditions.
+    [Alt Text](https://github.com/arshiyakhan122/Sales-And-Finance-Analytics-Excel/blob/main/Market%20Performance%20vs%20Target%20Report-1.png)
+ 
+   ## Insights:
+
+  - The comparison of market performance against our 2021 sales targets highlights varying outcomes in different countries. Some markets, such as Australia, India, and Pakistan, exceeded     their targets, demonstrating robust sales growth.
+   - However, other markets, like Austria, Poland, and South Korea, fell short of their targets. This comprehensive assessment provides a clear picture of how each market performed in         relation to their goals, helping us identify areas for improvement and refine our strategies in the future.
+
+ ## 3.Yearly Profit and Loss (P&L) Report: This report breaks down our financial performance for each fiscal year, showing where we made and lost.
+     [ALt Text](https://github.com/arshiyakhan122/Sales-And-Finance-Analytics-Excel/blob/main/P%26L%20By%20Fiscal%20Year(1).png)
+
+   ## Insights: 
+     - Our three-year Profit and Loss report showcases impressive growth in Net Sales, surging by 204.5% from 87.5 million to 598.9 million.
+     - Despite a significant increase in Cost of Goods Sold (COGS), efficient cost management allowed us to maintain a strong Gross Margin of 218.2 million.
+     - The slight dip in Gross Margin Percentage (GM%) suggests an opportunity for further optimization. -These insights are ability to attract more customers, generate higher revenue,         and maintain effective cost control, while also highlighting areas for enhancing profitability through refined cost management strategies.
+     
+ ## 4.Quarterly Profit and Loss (P&L) Comparison:** We analyze and compare the financial performance for each quarter, revealing trends in how we're doing throughout the year.
+
+     [ALt Text](https://github.com/arshiyakhan122/Sales-And-Finance-Analytics-Excel/blob/main/New%20Products%202021.png)
+ 
+    ## Insights: 
+    Our sales went up a over the years, especially in 2021, where they more than doubled compared to 2020. Despite increased costs, we managed to keep a good profit margin. This means       we're making more revenue while being efficient with our expenses, which is great for the business.
+    
+## 5.Market-Specific Profit and Loss (P&L) Report:** This report breaks down the financial performance for each market we operate in.
+
+   [Alt Text](https://github.com/arshiyakhan122/Sales-And-Finance-Analytics-Excel/blob/main/New%20Products%202021.png)
+
+   ## Insights:
+   - Sales numbers for different markets Japan and New Zealand have the highest profit margins, which means we make more revenue relative to our costs in these markets.
+   - Markets like Germany and Norway have lower profit margins, meaning we earn less compared to our expenses in these areas.
+   - The United Kingdom and the USA are big markets where we earn a lot, but their profit margins are in the middle range.
+   - Overall, we're doing well as we maintain a healthy profit margin of 36.43% across all markets.
+
+## 6.Quarterly Gross Margin Percentage (GM%) by Location:** It provides a detailed view of profitability in different geographic areas.
+  [ALt Text](https://github.com/arshiyakhan122/Sales-And-Finance-Analytics-Excel/blob/main/GM%25%20by%20SubZones.pdf)
+
+## Insights: -
+- Our profit margins changed over time. For example, the ANZ region's margin decreased, while the North American region's stayed steady. This helps us understand how different areas are doing and make decisions.
+- Overall these insights show that while there were minor fluctuations, the gross margins by subzone were fairly steady over the three fiscal years.
+# Overall Insights
+- Customer Sales Performance: Our sales have grown a lot, especially in 2021, where they jumped by a huge 304%. Amazon was the top seller for 2021.
+
+- Top 10 Products: Listed of the top ten products that have been doing really well from 2020 to 2021. One product, "AQ Electron 4 3600 Desktop processor," "AQ Pen Drive DRC" has been the best-seller for both years.
+
+- Market Performance vs. Target: compared how well our sales match our goals and the market conditions.
+
+- New Products in 2021: In 2021, we added 16 new products to our lineup, and they were very successful. One of them, "AQ Qwerty," did exceptionally well.
+
+- Top 5 Countries in 2021: India led the way with the most sales at $161.3 million. The USA, South Korea, the United Kingdom, and Canada also had strong sales.
+
+- Top and Bottom 5 Products (Units Sold): Some products, like "AQ Gamers Ms" and "AQ Master wired x1 Ms," sold really well. Others, like "AQ Home Allin1 Gen 2," didn't do as well, so we need to rethink how we sell them.
+
+- Division Level Report: The "PC" division had an amazing growth, with a big increase in sales from $40.1 million in 2020 to an impressive $165.8 million in 2021.
+
+- Profit and Loss Reports: We looked closely at our financial numbers, like how much we made, how much it cost to make our products, and our profit margins for each accounting period.
+
+- Profit and Loss Reports by Markets: New Zealand and Japan had the highest profits, while Germany had the lowest. This shows where we're doing well and where we can improve.
+
+- Gross Margin % by Quarter: Our profit margins changed over time. For example, the ANZ region's margin decreased, while the North American region's stayed steady. This helps us understand how different areas are doing and make smart decisions.
+
+    
    
    
