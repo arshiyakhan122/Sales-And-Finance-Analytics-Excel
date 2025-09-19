@@ -4,4 +4,5 @@
  - Atliq not only sells these hardware goods but also manufactures them. To make these products available to customers, they use intermediaries. These intermediaries can be physical retail giants like Croma and Best Buy and popular online marketplaces such as Flipkart and Amazon.
  - These intermediaries play a crucial role as they serve as a bridge connecting Atliq's products with the end consumers, effectively making these products accessible to the general public.
 Atliq Bussiness models
+
 ![Alt Text](Atliq Bussiness Model.png)
