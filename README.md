@@ -20,3 +20,4 @@ The primary purpose of the Sales Analytics report is to give us a detailed under
  5.Top 5 Sales Countries in 2021: List the five countries where we made the most money in 2021.
  # Sales Analysis Reports
    1:Top 10 Products with Sales Increase: We want to find which products had the biggest increase in sales from 2020 to 2021.
+   [Alt Text](https://github.com/arshiyakhan122/Sales-And-Finance-Analytics-Excel/blob/main/Top%2010%20Products%2021%20vs%2020.png)
